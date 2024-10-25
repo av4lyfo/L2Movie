@@ -2,6 +2,7 @@ import React from 'react';
 import {ScrollView, Text} from 'react-native';
 import Movie from './components/Movie';
 
+
 class AllMovies extends React.Component {
   render() {
     return (
